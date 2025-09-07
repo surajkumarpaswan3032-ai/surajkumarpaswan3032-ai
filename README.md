@@ -45,6 +45,11 @@ Currently, I’m learning and practicing:
   <a href="mailto:surajkumarpaswan3032@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+
+  <a href="https://www.linkedin.com/in/suraj-kumar-paswan-5b238834a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+
   <a href="https://www.instagram.com/its_me_suraj_kr_01?igsh=MTYzZ3FtMJwdTQQNw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
