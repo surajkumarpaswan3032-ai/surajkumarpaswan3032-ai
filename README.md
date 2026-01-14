@@ -10,7 +10,7 @@ Alongside this, I’m developing strong **data analysis skills** to support data
 ## 🌱 About Me
 - 📍 Madhubani, Bihar, India 🇮🇳
 - 💡 Problem solver & continuous learner
-- 📊 Interested in data-backed development
+- 💻 Passionate about building end-to-end full stack applications
 - 🚀 Sharing projects, experiments & learnings
 - 🤝 Open to collaborations & internships
 
