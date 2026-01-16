@@ -31,17 +31,6 @@ Alongside this, I’m developing strong **data analysis skills** to support data
 
 ---
 
-### 📊 Data Analysis (Secondary)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
 ## 📌 What I’m Currently Working On
 - 🔹 Full stack projects (frontend + backend)
 - 🔹 REST APIs & database design
