@@ -5,29 +5,43 @@
 I’m a passionate **Full Stack Developer** focused on building modern, end-to-end web applications.  
 Alongside this, I’m developing strong **data analysis skills** to support data-driven decision making.
 
-* ---
+---
 
-* ## 🌱 About Me
-* 📍 Madhubani, Bihar, India 🇮🇳
-* 💡 Problem solver & continuous learner
-* 💻 Passionate about building end-to-end full stack applications
-* 🚀 Sharing projects, experiments & learnings
-* 🤝 Open to collaborations & internships
+## 🌱 About Me
+- 📍 Madhubani, Bihar, India 🇮🇳
+- 💡 Problem solver & continuous learner
+- 💻 Passionate about building end-to-end full stack applications
+- 🚀 Sharing projects, experiments & learnings
+- 🤝 Open to collaborations & internships
 
-* ---
+---
 
-* ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-* ### 💻 Full Stack Development (Primary)
-* <p align="left">
-* <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-* <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-* <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-* <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-* <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-* <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-* </p>
+### 💻 Full Stack Development (Primary)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 📊 Data Analysis (Secondary)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
 ## 📌 What I’m Currently Working On
 - 🔹 Full stack projects (frontend + backend)
 - 🔹 REST APIs & database design
