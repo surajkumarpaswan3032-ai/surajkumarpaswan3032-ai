@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Suraj Kumar Paswan  
+🚀 **Full Stack Developer (Primary) | Data Analyst (Secondary)**  
+💻 Building scalable web applications | 📊 Turning data into insights
+
+I’m a passionate **Full Stack Developer** focused on building modern, end-to-end web applications.  
+Alongside this, I’m developing strong **data analysis skills** to support data-driven decision making.
 
 ---
 
