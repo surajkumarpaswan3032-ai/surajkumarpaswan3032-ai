@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Suraj Kumar 
-🚀 **Full Stack Developer (Primary)
+# 👋 Hi, I'm Suraj Kumar Paswan  
+🚀 **Full Stack Developer (Primary) | Data Analyst (Secondary)**  
 💻 Building scalable web applications | 📊 Turning data into insights
 
 I’m a passionate **Full Stack Developer** focused on building modern, end-to-end web applications.  
+Alongside this, I’m developing strong **data analysis skills** to support data-driven decision making.
+
 ---
 
 ## 🌱 About Me
-- 📍 Vaisali, Bihar, India 🇮🇳
+- 📍 Madhubani, Bihar, India 🇮🇳
 - 💡 Problem solver & continuous learner
 - 💻 Passionate about building end-to-end full stack applications
 - 🚀 Sharing projects, experiments & learnings
@@ -28,6 +30,15 @@ I’m a passionate **Full Stack Developer** focused on building modern, end-to-e
 </p>
 
 ---
+
+### 📊 Data Analysis (Secondary)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
@@ -87,3 +98,19 @@ I’m a passionate **Full Stack Developer** focused on building modern, end-to-e
 ✨ *“Turning raw data into meaningful insights — one step at a time.”* ✨
 
 
+
+
+<!--
+**surajkumarpaswan62/surajkumarpaswan62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
